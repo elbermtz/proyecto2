@@ -2,4 +2,6 @@ Archivo 1
 
 Es una prueba para repasar los conceptos aprendidos de git
 
+Este es un cambio para probar los conflictos en el merge
+
 Bye
