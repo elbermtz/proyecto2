@@ -4,6 +4,8 @@ Es una prueba para repasar los conceptos aprendidos de git.
 
 hacemos cambios para ver el status del staging.
 
-Este es un cambio para "resolver" los conflictos en el merge
+Este es un cambio para "resolver" los conflictos en el merge.
+
+Modificación hecha desde la plataforma de GitHub.
 
 Bye
